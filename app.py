@@ -10,7 +10,7 @@ def hello_world():
         'disneyplus': 'disneyplus.png',
         'youtube': 'youtube.png',
         'crunchyroll': 'crunchyroll.png',
-        'viaplay': 'viaplay.png'
+        'viaplay': '|   viaplay.png'
     })
 
 @app.route('/<service>')
